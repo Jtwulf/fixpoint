@@ -1,0 +1,21 @@
+N = 3
+
+ping1.log:
+
+ping2.log:
+
+ping3.log:
+10.20.30.1/16 was down from 2020-10-19 13:31:27 to 2020-10-19 13:31:30
+
+ping4.log:
+10.20.30.1/16 was down from 2020-10-19 13:31:26 to 2020-10-19 13:31:32
+10.20.30.2/16 was down from 2020-10-19 13:31:29 to 2020-10-19 13:31:35
+
+ping5.log:
+
+ping6.log:
+
+ping7.log:
+
+ping8.log:
+
